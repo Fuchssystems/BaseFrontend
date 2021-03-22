@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="840px" height="480px" viewBox="0 0 840 480" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49 (51002) - http://www.bohemiancoding.com/sketch -->
+    <title>animated-svg-image-slider-featured</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="13.9684862 23.238 18.168 33.378 18.17 33.38 10.958 36.448 6.44921752 25.7669727 0 32.03 0 0 23.182 23.238"></polygon>
+        <filter x="-133.7%" y="-79.6%" width="367.4%" height="270.1%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="10" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.201681386 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="animated-svg-image-slider-featured" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polygon id="bg" fill="#DFEBEF" points="0 480 840 480 840 0 0 0"></polygon>
+        <g id="desktop" transform="translate(57.000000, 26.000000)">
+            <path d="M726,454 L0,454 L0,6 C0,2.687 2.687,0 6,0 L720,0 C723.313,0 726,2.687 726,6 L726,454 Z" id="container_bg" fill="#FFFFFF"></path>
+            <polygon id="Combined-Shape" fill="#00171F" points="0 24 726 24 726 454 1.13686838e-13 454"></polygon>
+            <rect id="Rectangle" fill="#00A7E1" x="106" y="89" width="514" height="298"></rect>
+            <polygon id="Combined-Shape" fill="#F2559C" points="440.625399 89 620.26078 89 620.26078 387 258 387"></polygon>
+            <g id="Group" transform="translate(338.000000, 367.000000)" stroke="#FFFFFF" stroke-width="2">
+                <circle id="Oval" cx="4" cy="4" r="4"></circle>
+                <circle id="Oval-Copy" cx="18" cy="4" r="4"></circle>
+                <circle id="Oval-Copy-2" fill="#FFFFFF" cx="32" cy="4" r="4"></circle>
+                <circle id="Oval-Copy-3" cx="46" cy="4" r="4"></circle>
+            </g>
+            <g id="dots" transform="translate(15.000000, 8.000000)" fill="#DFEBEF">
+                <path d="M8,4 C8,6.209 6.209,8 4,8 C1.791,8 0,6.209 0,4 C0,1.791 1.791,0 4,0 C6.209,0 8,1.791 8,4" id="Fill-6"></path>
+                <path d="M24,4 C24,6.209 22.209,8 20,8 C17.791,8 16,6.209 16,4 C16,1.791 17.791,0 20,0 C22.209,0 24,1.791 24,4" id="Fill-8"></path>
+                <path d="M40,4 C40,6.209 38.209,8 36,8 C33.791,8 32,6.209 32,4 C32,1.791 33.791,0 36,0 C38.209,0 40,1.791 40,4" id="Fill-10"></path>
+            </g>
+            <g id="icon-copy" transform="translate(302.000000, 177.000000)" fill="#000000" opacity="0.100430254">
+                <path d="M113.986906,123 L28.3568999,115.270834 C27.5637329,115.216363 26.8622936,114.736265 26.5240739,114.016362 C26.1858542,113.296458 26.2639319,112.449726 26.7280871,111.803892 C27.1922423,111.158059 27.9696337,110.814476 28.7593722,110.906128 L109.977763,118.237275 L117.185912,40.0596831 L108.269203,39.2553302 C107.474734,39.2030046 106.771164,38.723576 106.431497,38.0030769 C106.091831,37.2825778 106.169535,36.4344215 106.634459,35.7877175 C107.099383,35.1410135 107.878342,34.7975591 108.669079,34.8906247 L122,36.0935167 L113.986906,123 Z M0.100228586,0.10392156 L102.315729,0 L102.315729,100.751953 L0,100.893806 L0.100228586,0.10392156 Z M5.25031606,95.5215806 L97.0726834,95.5215806 L97.0726834,83.7451894 L5.25239334,83.7451894 L5.25239334,95.5215806 L5.25031606,95.5215806 Z M76.3030355,78.51118 L63.5849108,46.139614 L51.7963673,71.7962884 C51.4774412,72.4846237 50.8286751,72.9618132 50.0769018,73.0610138 C49.3239648,73.1602956 48.57205,72.870982 48.0796005,72.2925138 L36.1352613,58.1118973 L24.0771912,78.51118 L76.3051127,78.51118 L76.3030355,78.51118 Z M5.25031606,78.51118 L18.9432027,78.51118 L33.9084211,53.2062801 C34.2760396,52.5879065 34.9208726,52.1866478 35.6377536,52.1301723 C36.3555354,52.0640695 37.0598779,52.3555227 37.521324,52.909584 L49.2257378,66.8080535 L61.7257484,39.5915165 C62.1008833,38.7874921 62.9173434,38.283087 63.8038301,38.3076877 C64.6903169,38.3322884 65.4775791,38.881198 65.8075965,39.704791 L81.0548052,78.5142977 L97.0706061,78.5142977 L97.0706061,5.23556821 L5.25239334,5.23556821 L5.25239334,78.51118 L5.25031606,78.51118 Z M26.5771934,39.5431929 C20.545823,39.4756465 15.7047188,34.5406657 15.7496946,28.5057321 C15.7946705,22.4707984 20.708789,17.6086001 26.7404955,17.6310548 C32.772202,17.6535095 37.6500234,22.552161 37.6501151,28.5872624 C37.6089429,34.6682194 32.6569344,39.5688267 26.5792707,39.5431929 L26.5771934,39.5431929 Z M26.5771934,22.0137041 C22.9581865,22.054061 20.0532634,25.015111 20.0801738,28.6362546 C20.1070842,32.2573982 23.0556935,35.1748995 26.6749,35.161406 C30.2941065,35.1479126 33.2209039,32.2085061 33.2208426,28.5872624 C33.1965382,24.9388867 30.2256683,21.9984403 26.5792707,22.0137041 L26.5771934,22.0137041 Z" id="icon_copy"></path>
+            </g>
+            <g id="minimal-right" transform="translate(583.000000, 218.000000)" stroke="#FFFFFF" stroke-linecap="square" stroke-width="2">
+                <polyline id="Shape" points="0 0 20 20 0 40"></polyline>
+            </g>
+            <g id="minimal-right-copy" transform="translate(136.000000, 238.000000) rotate(-180.000000) translate(-136.000000, -238.000000) translate(126.000000, 218.000000)" stroke="#FFFFFF" stroke-linecap="square" stroke-width="2">
+                <polyline id="Shape" points="0 0 20 20 0 40"></polyline>
+            </g>
+        </g>
+        <g id="default" transform="translate(648.000000, 268.000000)" fill-rule="nonzero">
+            <g id="Combined-Shape">
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+            </g>
+            <polygon id="Shape" fill="#000000" points="15.502 32.018 11.814 33.566 5.614 18.818 9.296 17.268 15.502 32.018"></polygon>
+            <polygon id="Shape" fill="#000000" points="2 4.814 2 27.19 7.938 21.458 8.794 21.18 18.33 21.18"></polygon>
+        </g>
+    </g>
+</svg>

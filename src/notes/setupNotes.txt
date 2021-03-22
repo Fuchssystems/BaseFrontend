@@ -1,0 +1,8 @@
+SVG Flag icons:
+https://github.com/joielechong/iso-country-flags-svg-collection
+
+qselect Seperators
+https://forum.quasar-framework.org/topic/402/separators-sections-for-q-select-and-q-dialog-select/6
+
+Country list
+https://github.com/umpirsky/country-list

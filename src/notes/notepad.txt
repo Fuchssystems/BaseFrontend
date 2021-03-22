@@ -1,0 +1,12 @@
+    countries: require(`../statics/country-lists-iso-3166/${this.$i18n.locale.substring(0, 2)}/country.json`),
+
+    Quasar select filter sample:
+    https://codepen.io/turigeza/pen/rbpLRJ
+
+    Seach field debounce example:
+    https://codesandbox.io/s/n9lrp9mx2p?file=/src/App.vue
+
+google maps get adress coordinates in php:
+https://stackoverflow.com/questions/3807963/how-to-get-longitude-and-latitude-of-any-address
+goolge API key: goolge konto: tirebiz.biz
+googleAPIkey='AIzaSyDHuD5Xnl2ts2V9g8rmqiZb1cEmgU7kero'
